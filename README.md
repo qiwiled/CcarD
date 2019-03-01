@@ -5,7 +5,7 @@ CcarD (fake Credit carD Generator)
 $ pkg install git
 $ pkg install python2
 $ git clone https://github.com/ITermSec/CcarD.git
-$ cd CCInfo
+$ cd CcarD
 $ python2 install.py
 ```
 # Screenshot
