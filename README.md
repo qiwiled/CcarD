@@ -9,5 +9,5 @@ $ cd CcarD
 $ python2 install.py
 ```
 # Screenshot
-<img src=".images/CcarD1.jpg"/>
-<img src=".images/CcarD2.jpg"/>
+<img src=".images/Ccard1.jpg"/>
+<img src=".images/Ccard2.jpg"/>
